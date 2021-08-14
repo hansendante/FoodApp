@@ -1,0 +1,11 @@
+.gambar-makanan {
+  width: 150px;
+  height: 150px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+.card-img-top{
+  width:150px;
+}
+
